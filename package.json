@@ -1,0 +1,21 @@
+{
+    "name": "react-typescript-base",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "dev": "parcel index.html"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "react": "^16.13.1",
+        "react-dom": "^16.13.1"
+    },
+    "devDependencies": {
+        "@types/react": "^16.9.27",
+        "@types/react-dom": "^16.9.5",
+        "typescript": "^3.8.3"
+    }
+}
